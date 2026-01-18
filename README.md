@@ -44,4 +44,4 @@ Currently engaged in a *9-month Open Source Trainee program at ITI*, focusing on
 ## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-sameryousry99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameryousry99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samer-yousry-88921a228/)
